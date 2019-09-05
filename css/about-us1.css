@@ -1,0 +1,130 @@
+body{
+		margin:0px;
+		padding:0px;	
+	}
+    	#heading{
+    			font-size: x-large;
+    			color: white;
+				width:100%;
+				height:100px;
+				margin:0px;
+				padding:0px;
+				position:absolute;
+				background: #7450ba;
+				
+    	}
+    	
+    	.logo h1{
+    		font-family: 'Monoton', cursive;
+    		font-size: xxxx-large;
+    		color: ;
+    	}
+		 .nav-icons {
+			background: white;
+			color:white;
+			padding:2px;
+			margin:0px;
+			font-size: small;
+			border:1px solid white;
+			
+		.wrapper-head{
+			text-align: center;
+		}
+		}
+		/*-----------------input type-------------*/
+		
+                 {
+          
+        }
+		.box-wrapper{
+			width:80%;
+			border-radius:10px;
+			border: 1px solid green;
+			height: 500px;
+			margin-left:90px;
+			margin-right:40px;
+			margin-top:20px;
+		}
+		.box1 {
+			background:white;
+			color:black;
+			width: 320px;
+			height: 400px;
+			box-shadow: 10px 10px 20px ;
+			padding:1em;
+			border-radius:10px;
+			border: 1px solid green;
+			margin-left:30px;
+			margin-top:20px;
+			float:left;
+		}
+		.box2 {
+			background:white;
+			color:black;
+			width: 300px;
+			height: 400px;
+			box-shadow: -10px 10px 20px ;
+			padding:1em;
+			border-radius:10px;
+			border: 1px solid green;
+			margin-top:20px;
+			margin-left:80px;
+			margin-right:20px;
+			float:left;
+			display:flex;
+		}
+		.box3 {
+			background:white;
+			color:black;
+			width: 280px;
+			height: 380px;
+			padding:2em;
+			border-radius:10px;
+			border: 1px solid green;
+			margin-left:80px;
+			margin-top:20px;
+			float:left;
+			display:flex;
+		}
+		/*--------footer--*/
+				.footer{
+					background:#E6E6E6;
+					color:black;
+					height:200px;
+					position:relative;
+					display:flex;
+					
+				}
+				.footer .footer-bottom {
+					background:#343a40;
+					color:White;
+					height:50px;
+					width:100%;
+					text-align:center;
+					position:absolute;
+					bottom:0px;
+					left: 0px;
+					padding-top: 20px;
+				}
+				.footer .footer-content {
+					border: 2px;
+					border-color: red;
+					height:350px;
+					display: flex;
+					
+				}
+
+				.footer .footer-content .footer-section {
+					flex:1;
+					border: 1px solid white;
+					padding:25px;
+					
+				}
+				.footer-wrap{
+					float:left;
+					display:flex;
+					margin-right:60px;
+					margin-left:80px;
+					padding-right:60px;
+					text-align: center;
+				}
